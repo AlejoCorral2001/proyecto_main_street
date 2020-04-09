@@ -1,0 +1,12 @@
+*FRONT-END:
+1) crear la estructura basica (html)
+2) busquemos contenido del face y empezemos a poscicionarlo(html, css)
+3) empezar estilar la pagina(css)
+4) animaciones(css js)
+*INTERFACE DE MANEJO:
+1)estructura interface(qt)
+2)orm
+3)funcionalida python
+*BACK-END:
+*)djangoo rest framework
+*)generador de sitios estaticos 
